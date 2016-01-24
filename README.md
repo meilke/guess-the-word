@@ -1,6 +1,6 @@
 # guess-the-word
 
-Finding words where you only know the vocals.
+Finding words where you only know the vocals. A developer's way of solving [this](https://www.geocaching.com/geocache/GC2QEQ8_wasserschaden?guid=dfa764d1-ae87-4608-9c04-337ea8f5337f).
 
 ## Usage
 
