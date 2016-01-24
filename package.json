@@ -1,0 +1,13 @@
+{
+  "name": "guess-the-word",
+  "version": "1.0.0",
+  "description": "Finding words where you only know the vocals.",
+  "main": "index.js",
+  "dependencies": {
+    "command-line-args": "^2.1.4",
+    "lodash": "^4.0.0"
+  },
+  "devDependencies": {},
+  "author": "Christian Meilke",
+  "license": "MIT"
+}
